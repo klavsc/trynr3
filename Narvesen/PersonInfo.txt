@@ -1,0 +1,4 @@
+Juris;1000|
+Janis;10000|
+Klavs;50|
+Anna;666|

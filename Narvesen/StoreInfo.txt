@@ -1,0 +1,4 @@
+Chocolate;120;5|
+Milk;90;7|
+Apple;45;6|
+Coffee;160;200|
